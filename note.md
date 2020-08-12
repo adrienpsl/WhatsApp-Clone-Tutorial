@@ -1,0 +1,1 @@
+# how test react app render effectively?
