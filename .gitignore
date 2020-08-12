@@ -1,2 +1,10 @@
 node_modules
 npm-debug.log
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/WhatsApp-Clone-Tutorial.iml
+/.idea/workspace.xml
+/client/yarn.lock
+/server/yarn.lock
+/yarn.lock
+**/yarn.lock
