@@ -8,3 +8,4 @@ npm-debug.log
 /server/yarn.lock
 /yarn.lock
 **/yarn.lock
+yarn.lock
